@@ -1,6 +1,6 @@
 {
   "name": "git-zipper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "**README.md** for your Node.js package **`git-zipper`** 👇",
   "main": "git-zipper.js",
   "scripts": {
